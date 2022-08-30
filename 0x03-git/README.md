@@ -1,1 +1,1 @@
-It's time to code!
+Shell makes coding easy!
